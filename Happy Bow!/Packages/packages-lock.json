@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.ptc.vuforia.engine": {
-      "version": "file:C:/Users/Haw0407/Desktop/homework/virtual reality/pratical3/Packages/com.ptc.vuforia.engine",
+      "version": "file:D:/com.ptc.vuforia.engine",
       "depth": 0,
       "source": "local",
       "dependencies": {
